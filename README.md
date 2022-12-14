@@ -19,6 +19,5 @@ Built with
 - Next.js
 - React
 - Redux Toolkit
-- Redux Persist
 - Styled Components
 - Axios
